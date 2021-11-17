@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Session101</string>
+    <string name="insert_the_first_value">Insert the First Value</string>
+    <string name="insert_the_second_value">Insert the Second Value</string>
+    <string name="result">Result</string>
+    <string name="execute">Execute</string>
+    <string name="minus">MINUS</string>
+    <string name="plus">PLUS</string>
+    <string name="population">Population</string>
+    <string name="press_phone">Press Phone</string>
+    <string name="phone">Phone</string>
+    <string name="insert_the_number_that_appeared">Insert the number that appeared</string>
+    <string name="check">Check</string>
+    <string name="about_us">About Us</string>
+    <string name="developed_by_odalis_l_n_ez_espinal">Developed by Odalis L. Núñez Espinal</string>
+    <string name="back">Back</string>
+    <string name="insert_the_website">Insert the website...</string>
+    <string name="go">Go!</string>
+</resources>
