@@ -16,4 +16,5 @@
     <string name="back">Back</string>
     <string name="insert_the_website">Insert the website...</string>
     <string name="go">Go!</string>
+    <string name="https_www">https://www.</string>
 </resources>

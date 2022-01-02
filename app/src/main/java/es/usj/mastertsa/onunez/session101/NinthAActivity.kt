@@ -18,7 +18,7 @@ class NinthAActivity : AppCompatActivity() {
     private fun visit() {
         if (!etUrl.text.toString().isNullOrEmpty()) {
             val intent = Intent(this, NinthBActivity::class.java)
-            intent.putExtra(URL, etUrl.text.toString())
+            intent.putExtra(URL, "https://www." + etUrl.text.toString())
             startActivity(intent)
         }
         else
